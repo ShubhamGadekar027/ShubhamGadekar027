@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Shubham</h1>
+<!-- <h1 align="center">Hello! I'm Shubham</h1> -->
 
 ### 🔭 I have technical experience and interest in -
 * Data Analytics
